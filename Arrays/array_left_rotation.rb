@@ -1,7 +1,7 @@
 #using ruby core library
 arr_lines = File.readlines("./IO/input.txt")
 arr_num = arr_lines[1].split(' ')
-no_of_rotation = arr_lines
+
 #print arr_num.rotate(arr_lines[0][2].to_i)
 
 =begin
